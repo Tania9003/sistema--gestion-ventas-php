@@ -37,7 +37,8 @@
           <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
             <li><a class="dropdown-item" href="../Vistagt/Empleados.php">Empleados</a></li>
          
-            <li><a class="dropdown-item" href="../Vistagt/Clientes.php"">Clientes</a></li>
+            <li><a class="dropdown-item" href="../Vistagt/Clientes.php">Clientes</a></li>
+            <li><a class="dropdown-item" href="../Vistagt/Productos.php">Productos</a></li>
           </ul>
         </li>
         <li class="nav-item dropdown">
